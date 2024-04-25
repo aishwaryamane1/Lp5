@@ -1,0 +1,2 @@
+create -       touch file.cpp
+compile -      g++ file.cpp -o file
